@@ -1,0 +1,13 @@
+diga a turma:
+1e
+
+agora, diga o nome do aluno 1
+pam
+qual a idade de pam ?
+1
+este aluno(a) foi aprovado?(sim ou não)
+h
+resposta não reconhecida
+este aluno(a) foi aprovado?(sim ou não)
+
+** Process Stopped **
